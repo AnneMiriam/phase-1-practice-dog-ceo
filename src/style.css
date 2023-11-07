@@ -1,0 +1,14 @@
+img {
+    display: flexbox;
+    height: 20%;
+    width: 20%;
+    padding: 20px;
+}
+#dog-image-container {
+    width: 100%;
+    background-color: gray;
+    /* padding: 10px; */
+}
+.activate-color {
+    color: purple;
+}
